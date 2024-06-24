@@ -1,6 +1,6 @@
 <!-- TITLE -->
 <p align="center"> 
-  <img width="200px" src="https://file.notion.so/f/f/fcab2c10-8da9-4414-aa63-4998ddf62e78/11f58fa7-fd04-4595-8460-2761b7e55926/Morph.logo_Horizontal_Green.svg?id=95a8e435-ee88-4836-a9df-da2560b4e425&table=block&spaceId=fcab2c10-8da9-4414-aa63-4998ddf62e78&expirationTimestamp=1718798400000&signature=aarsp7PWd_xkDk-dYMWnhprhwq5pqEPoCbQizeKZYB4&downloadName=Morph.logo_Horizontal_Green.svg" align="center" alt="Morph" />
+  <img width="200px" src="https://morphl2brand.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffcab2c10-8da9-4414-aa63-4998ddf62e78%2F76b87f21-9863-4533-932c-91c593cc741c%2FLogo_Morph_white.jpg?table=block&id=00854626-61f3-4668-8ab1-cb8f3ec0dcb0&spaceId=fcab2c10-8da9-4414-aa63-4998ddf62e78&width=2000&userId=&cache=v2" align="center" alt="Morph" />
  <h2 align="center">Morph Starter Kit</h2>
 </p>
 </p>
