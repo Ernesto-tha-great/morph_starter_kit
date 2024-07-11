@@ -1,0 +1,7 @@
+{
+  "name": "final-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ernesto-tha-great/morph_starter_kit.git",
+  "license": "MIT"
+}
